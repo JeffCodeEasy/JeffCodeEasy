@@ -1,6 +1,6 @@
 # Hola soy Jeremy Fernández!! 😊
 
->**Soy egresado de la carrera de Computación e informatica y me he especializado en el desarrollo mobile web y en el desarrollo web.**
+>**Soy egresado de la carrera de Computación e informatica y me he especializado en el desarrollo mobile, web y con interés en ciberseguridad.**
 
 
 ## Mi Stack de Tecnologías:
